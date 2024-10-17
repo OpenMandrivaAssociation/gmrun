@@ -4,7 +4,7 @@ Release:		%mkrel 6
 Summary:		Lightweight "Run program" dialog box with search history and tab completion
 Group:			Graphical desktop/Other
 License:		GPL+
-URL:			http://sourceforge.net/projects/gmrun
+URL:			https://sourceforge.net/projects/gmrun
 Source0:		http://heanet.dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.tar.gz
 Patch0:			gmrun-gmrunrc.patch
 Patch1:			gmrun-0.9.2-gcc43.patch
