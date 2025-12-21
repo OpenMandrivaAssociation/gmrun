@@ -10,6 +10,11 @@ Patch0:			gmrun-gmrunrc.patch
 Patch1:			gmrun-0.9.2-gcc43.patch
 Patch2:			gmrun-0.9.2-mousewheel.patch
 Patch3:			gmrun-0.9.2-mga.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:		popt-devel
 BuildRequires:		pkgconfig(gtk+-2.0)
 Requires:		xterm
